@@ -1,5 +1,8 @@
-### Hi there 👋
+# Hi, I'm Travis 👋
 
+## About Me
+I'm a Senior Data Analyst who specializes in automating processes and driving decision making with analytics.  I have over 10 years of experience in SQL query writing.
+I enjoy using my technical skillset to add value to business departments.  I hold a Master's in Business and Administration with a Certificate in Business Analytics.  I enjoy combining my two passions, basketball and technology to create different projects and I look forward to sharing them with you all!
 <!--
 **FosterTD/FosterTD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
